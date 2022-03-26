@@ -1,0 +1,5 @@
+classes= 42
+train = /content/drive/MyDrive/darknet/train.txt
+valid = /content/drive/MyDrive/darknet/test.txt
+names = /content/drive/MyDrive/darknet/obj.names
+backup = /content/drive/MyDrive/darknet/backup/
